@@ -25,6 +25,7 @@
 		<br>
 		<br>
 		<br>
+		<h4>These are some of my works I created in Senior High: </h4>
 		<img src="../Images/ProfilePicture.jpg" width="200px" height="200px" alt="SelfPicture">
 		<br>
 		<br>
