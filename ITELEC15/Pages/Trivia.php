@@ -35,8 +35,6 @@
 		<p>- I graduated second honors in pre-school</p>
 		<br>
 		<p>- I was born on Halloween</p>
-		<br>
-		<p>- I worked in Virlanie during my Senior High job training</p>
 	</div>
 </body>
 </html>
