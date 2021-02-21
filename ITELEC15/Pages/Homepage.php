@@ -5,6 +5,7 @@
 	<link rel="stylesheet" type="text/css" href="../CSS/stylesheet.css">
 	<link href='https://fonts.googleapis.com/css?family=Play' rel='stylesheet'>
 	<link href='https://fonts.googleapis.com/css?family=Goldman' rel='stylesheet'>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body>
 	<div class="headbar">
@@ -31,6 +32,10 @@
 		<br>
 		<br>
 		<h4>Have a nice day!</h4>
+		<br>
+		<br>
+		<h3>You may also visit us on Facebook: </h3>
+		<a href="https://www.facebook.com/ralphcarl.robles/" class="fa fa-facebook"></a><a href="https://www.facebook.com/ralphcarl.robles/" target="_blank" class="barlinks"><b>Ralph Carl Robles<b></a> 
 	</div>
 </body>
 </html>
